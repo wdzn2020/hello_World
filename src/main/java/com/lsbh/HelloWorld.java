@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("HelloWorld5!");
         System.out.println("test second commit!");
         System.out.println("hot-fix first!");
+        System.out.println("hot fix second!commit!");
     }
 }
